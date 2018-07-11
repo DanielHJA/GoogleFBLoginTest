@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1060726594407-t9aqd92o0mb34osjcbq6fvt9q5jv6qee.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1060726594407-t9aqd92o0mb34osjcbq6fvt9q5jv6qee</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLNaAdAg6HyG5pNu3H946TJDRtvgbYj3k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1060726594407</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.danielhjartstrom.FirebaseLoginJuly</string>
+	<key>PROJECT_ID</key>
+	<string>facebooklogintestjuly</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facebooklogintestjuly.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1060726594407:ios:a7ed03b1382d2cd2</string>
+	<key>DATABASE_URL</key>
+	<string>https://facebooklogintestjuly.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_FirebaseLoginJuly {
+  umbrella header "Pods-FirebaseLoginJuly-umbrella.h"
+
+  export *
+  module * { export * }
+}
